@@ -4,7 +4,7 @@ MediWorld è la piattaforma italiana leader per la Medicina dello Sport.
 
 ## Funzionalità
 
-- Filtri rapidi per tipologia
+- Filtri rapidi per tipologia di visita, disciplina sportiva, Federazione
 - Interfaccia ottimizzata per mobile e desktop
 
 ## Struttura
