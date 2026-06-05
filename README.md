@@ -1,11 +1,9 @@
 # MediWorld — Medicina dello Sport
 
-Applicazione web per la ricerca e la consultazione di farmaci e sostanze nell'ambito della medicina dello sport.
+MediWorld è la piattaforma italiana leader per la Medicina dello Sport.
 
 ## Funzionalità
 
-- Ricerca farmaci per nome o categoria
-- Schede dettagliate per ogni sostanza
 - Filtri rapidi per tipologia
 - Interfaccia ottimizzata per mobile e desktop
 
